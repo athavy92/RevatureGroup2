@@ -13,6 +13,14 @@ h1, .lead {
   text-align: center;
 }
 
+.coverphoto > img {
+  display: block;
+  width: 800px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .header {
   padding: 10px;
   font-family: 'Noto Serif TC', serif;
