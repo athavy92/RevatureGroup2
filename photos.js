@@ -1,4 +1,8 @@
-let imageArray = [ "amusement-amusement-park-amusement-ride-2128165.jpg", "amusement-park-amusement-ride-architecture-2532568.jpg", "architecture-art-blur-2521470.jpg", "carnival-carousel-circus-2350518.jpg" ];
+let imageArray = [ 
+	"amusement-amusement-park-amusement-ride-2128165.jpg", 
+	"amusement-park-amusement-ride-architecture-2532568.jpg", 
+	"architecture-art-blur-2521470.jpg", 
+	"carnival-carousel-circus-2350518.jpg" ];
 
 let img = document.createElement("img");
 img.alt = "Park Image";
